@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Nicolas Ramalho | Software Engineering Student @ FIAP<br>💻 Apaixonado por tecnologia e focado em desenvolvimento Back-end com Java.<br>🛠️ Explorando o ecossistema Spring, Python e desenvolvimento mobile.</p>
+<p align="left">🚀 Nicolas Ramalho | Software Engineering Student FIAP<br>💻 Apaixonado por tecnologia e focado em desenvolvimento Back-end com Java.<br>🛠️ Explorando o ecossistema Spring, Python e desenvolvimento mobile.</p>
 
 ###
 
