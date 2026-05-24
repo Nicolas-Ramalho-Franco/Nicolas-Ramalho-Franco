@@ -2,7 +2,7 @@
 
 ###
 
-# Olá! Eu sou o Nicolas Ramalho Franco 👋
+#Eu sou o Nicolas Ramalho Franco 
 
 Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar soluções em backend, explorar a Internet das Coisas (IoT) e construir interfaces intuitivas. Atualmente moro em São Paulo, SP, e estou em busca de oportunidades como Jovem Aprendiz ou Estágio em TI e Suporte Técnico.
 
@@ -29,9 +29,8 @@ Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar 
 
 ---
 ###  Como me encontrar
-*(Adicione os links para suas redes sociais abaixo)*
-* **LinkedIn:** [Seu Perfil do LinkedIn](link)
-* **E-mail:** seu.email@exemplo.com
+* **LinkedIn:** [Nicolas Ramalho Franco](www.linkedin.com/in/nicolas-ramalho-franco-6b5322376)
+* **E-mail:** nicolasramalhof@gmail.com
 
 ###
 
