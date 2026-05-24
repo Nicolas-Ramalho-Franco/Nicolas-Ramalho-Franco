@@ -1,9 +1,6 @@
 <h1 align="left">Opa, suave?.</h1>
 
 ###
-
-#Eu sou o Nicolas Ramalho Franco 
-
 Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar soluções em backend, explorar a Internet das Coisas (IoT) e construir interfaces intuitivas. Atualmente moro em São Paulo, SP, e estou em busca de oportunidades como Jovem Aprendiz ou Estágio em TI e Suporte Técnico.
 
 ### Sobre Mim
