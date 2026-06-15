@@ -6,7 +6,7 @@ Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar 
 ### Sobre Mim
 * 🎓 Cursando o 1º ano de **Engenharia de Software** na FIAP.
 * 💻 Técnico em Informática formado pelo Colégio Eniac (2025).
-* 🎯 Meu foco atual abrange desenvolvimento backend e integração de hardware, mas também possuo um grande interesse em aplicar tecnologia na área de **Medicina Veterinária**.
+* 🎯 Meu foco atual abrange desenvolvimento backend e integração de hardware.
 * 🤝 Gosto de trabalhar em equipe e estou sempre envolvido em projetos acadêmicos desafiadores.
 
 ###  Tecnologias e Habilidades
@@ -15,8 +15,7 @@ Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar 
 * **Design:** UX/UI, design de interfaces móveis intuitivas
 
 ###  Projetos em Destaque
-* **Sentinela Urbana:** Planejamento e documentação de um sistema de monitoramento focado em segurança pública, utilizando Inteligência Artificial e câmeras inteligentes.
-* **Sistema de Monitoramento de Enchentes:** Desenvolvimento de uma solução IoT em hardware com sensores ultrassônicos para rios e pluviômetros para infraestrutura urbana.
+* **Projeto de monitoramento de satelites** Sistema de monitoramento de satelites baseado em IA, desenvolvido para detecção preventiva de batidas de satelites na hora do lançamento a orbita e monitoramento de tais(Projeto de Faculdade).
 * **Projetos de Interface (JOVI & SocialConnect):** Exploração prática de UX/UI com foco no design de interfaces de câmera e redes sociais.
 
 ###  Experiência Profissional
