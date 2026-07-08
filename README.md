@@ -1,7 +1,7 @@
 <h1 align="left">Opa, suave?.</h1>
 
 ###
-Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar soluções em backend, explorar a Internet das Coisas (IoT) e construir interfaces intuitivas. Atualmente moro em São Paulo, SP, e estou em busca de oportunidades como Jovem Aprendiz ou Estágio em TI e Suporte Técnico.
+Sou um estudante de Engenharia de Software e desenvolvedor apaixonado por criar soluções em backend, explorar a Internet das Coisas (IoT) e construir interfaces intuitivas. Atualmente fico em São Paulo, SP, e estou em busca de oportunidades como Jovem Aprendiz ou Estágio em TI e Suporte Técnico.
 
 ### Sobre Mim
 * 🎓 Cursando o 1º ano de **Engenharia de Software** na FIAP.
